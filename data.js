@@ -253,8 +253,6 @@ const industryTrivia = [
         title: "盐膏层 (Salt Formation)",
         detail: "在中东钻井常遇到巨厚的盐层。盐在高温高压下会像牙膏一样流动（蠕变），如果钻开后不马上下一层套管并固井，井眼就会被“挤”扁。"
     },
-// === 追加的 100 条专业知识 (Extension) ===
-industryTrivia.push(
     // === 1. 固井技术（Cementing） 25条 ===
     {
         category: "固井 / Cementing",
@@ -766,5 +764,4 @@ industryTrivia.push(
         title: "挤水泥设备的泄压要求",
         detail: "作业结束后必须确认完全泄压，避免滞留高压导致事故。"
     }
-);
 ];
